@@ -56,6 +56,6 @@ Se compara el autoencoder contra un *baseline* que siempre predice la imagen pro
 | Modelo | MSE en test |
 |---|---|
 | Baseline (imagen promedio) | ≈ 0.0672 |
-| Autoencoder | ≈ 0.0238 |
+| Autoencoder | ≈ 0.01557 |
 
-El autoencoder reduce el error de reconstrucción en aproximadamente un 65 % respecto al baseline. Al final del notebook se muestra una comparación visual entre una imagen original y su reconstrucción.
+El autoencoder reduce el error de reconstrucción en aproximadamente un 77 % respecto al baseline. Al final del notebook se muestra una comparación visual entre una imagen original y su reconstrucción.
